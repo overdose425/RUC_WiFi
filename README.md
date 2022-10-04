@@ -1,4 +1,4 @@
-# RUCWifi鹿大校园网自动认证
+# RUCWifi: 鹿大校园网自动认证
 
 ## 参考
 原项目：https://github.com/huxiaofan1223/jxnu_srun  
