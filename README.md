@@ -1,7 +1,7 @@
-# 鹿大RUCWifi自动认证
+# RUCWifi鹿大校园网自动认证
 
 ## 参考
-原项目：https://github.com/huxiaofan1223/jxnu_srun
+原项目：https://github.com/huxiaofan1223/jxnu_srun  
 实现主要参考：https://github.com/FuryMartin/BUAA_WIFI
 
 ## 改动
