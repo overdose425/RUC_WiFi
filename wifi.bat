@@ -1,3 +1,3 @@
 cd /d %~dp0
-call python main.py
+call python ruc_wifi.py
 exit
