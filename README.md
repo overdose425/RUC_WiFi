@@ -1,27 +1,29 @@
-# 链接
+# RUC Wifi: 鹿大校园网自动认证 / 定时连接
+
+## 链接
 
 [overdose425/RUC_WiFi: 深澜认证协议下自动认证校园网 / 校园网定时重连 (github.com)](https://github.com/overdose425/RUC_WiFi)
 
-# 起因
+## 起因
 
 跟鹿大在读的女友出门玩时，心疼她为了工作每次都要背个游戏本出门，不便且厚重，遂寄希望于远程连接在校园的电脑。然而鹿大的校园网断线频率实在太高，为了省心地解决该问题，我参考北航校园网下设置自动连接的方案，编写了鹿大校园网连接脚本。在此处感谢原po作者们！
 
-# 参考
+## 参考
 
 原项目：https://github.com/huxiaofan1223/jxnu_srun  
 实现主要参考：https://github.com/FuryMartin/BUAA_WIFI
 
-# 改动
+## 改动
 
 1. 修改了相关url以适配RUC校园网
 2. 编码部分debug
 
-# 使用
+## 使用
 
 1. 修改ruc_wifi.py中username和password值为你的网关账号密码
-2. 运行ruc_wifi.py
+2. 运行ruc_wifi.py 或 运行wifi.bat
 
-# 自动
+## 自动
 
 **【windows下实现】** *感谢原作者@FuryMartin*
 
